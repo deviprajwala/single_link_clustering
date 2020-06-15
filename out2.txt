@@ -1,0 +1,37 @@
+The distance matrix obtained is
+0.00 0.23 0.22 0.37 0.34 0.24 
+0.23 0.00 0.14 0.19 0.14 0.24 
+0.22 0.14 0.00 0.16 0.28 0.10 
+0.37 0.19 0.16 0.00 0.28 0.22 
+0.34 0.14 0.28 0.28 0.00 0.39 
+0.24 0.24 0.10 0.22 0.39 0.00 
+
+
+The rows 3 6  from above matrix are clustered
+0.00 0.23 0.22 0.37 0.34 
+0.23 0.00 0.14 0.19 0.14 
+0.22 0.14 0.00 0.16 0.28 
+0.37 0.19 0.16 0.00 0.28 
+0.34 0.14 0.28 0.28 0.00 
+
+
+The rows 2 3  from above matrix are clustered
+0.00 0.22 0.22 0.37 
+0.22 0.00 0.14 0.16 
+0.22 0.14 0.00 0.16 
+0.37 0.16 0.16 0.00 
+
+
+The rows 2 3  from above matrix are clustered
+0.00 0.22 0.22 
+0.22 0.00 0.14 
+0.22 0.14 0.00 
+
+
+The rows 2 3  from above matrix are clustered
+0.00 0.22 
+0.22 0.00 
+
+
+The rows 1 2  from above matrix are clustered
+0.00 
